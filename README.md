@@ -1,2 +1,2 @@
 # My_project
-Site. Auotests
+Site. Autotests
